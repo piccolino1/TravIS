@@ -1,6 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ASP",
+    "\\ASP\\TravIS",
+    "\\ASP\\TravIS\\Controllers",
+    "\\ASP\\TravIS\\Views",
+    "\\ASP\\TravIS\\Views\\Home"
   ],
+  "SelectedNode": "\\ASP\\TravIS\\TravIS.csproj",
   "PreviewInSolutionExplorer": false
 }
