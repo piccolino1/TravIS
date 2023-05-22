@@ -39,7 +39,7 @@ namespace TravIS.Controllers
         {
             string keywords = collection["keywords"];
             if (string.IsNullOrEmpty(keywords))
-                return View();
+                return RedirectToAction("Index");
 
             string result = run_cmd(@"C:\Users\Dominik\source\repos\piccolino1\TravIS\Python\Finder\Finder.py", '"' + keywords.Replace('"', ' ') + '"');
 
