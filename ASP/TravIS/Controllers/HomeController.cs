@@ -22,7 +22,7 @@ namespace TravIS.Controllers
         private string run_cmd(string cmd, string args)
         {
             ProcessStartInfo start = new ProcessStartInfo();
-            start.FileName = @"C:\Users\Dominik\AppData\Local\Microsoft\WindowsApps\python3.10.exe";
+            start.FileName = @"[PFAD]\python3.10.exe";
             start.Arguments = string.Format("{0} {1}", cmd, args);
             start.UseShellExecute = false;
             start.RedirectStandardOutput = true;
@@ -41,7 +41,7 @@ namespace TravIS.Controllers
             if (string.IsNullOrEmpty(keywords))
                 return RedirectToAction("Index");
 
-            string result = run_cmd(@"C:\Users\Dominik\source\repos\piccolino1\TravIS\Python\Finder\Finder.py", '"' + keywords.Replace('"', ' ') + '"');
+            string result = run_cmd(@"..\..\Python\Finder\Finder.py", '"' + keywords.Replace('"', ' ') + '"');
 
             return View(
                 new ResultViewModel() { 

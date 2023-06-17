@@ -22,3 +22,8 @@ C:\Users\Dominik\source\repos\piccolino1\TravIS\ASP\TravIS\obj\Debug\net6.0\refi
 C:\Users\Dominik\source\repos\piccolino1\TravIS\ASP\TravIS\obj\Debug\net6.0\TravIS.pdb
 C:\Users\Dominik\source\repos\piccolino1\TravIS\ASP\TravIS\obj\Debug\net6.0\TravIS.genruntimeconfig.cache
 C:\Users\Dominik\source\repos\piccolino1\TravIS\ASP\TravIS\obj\Debug\net6.0\ref\TravIS.dll
+C:\Users\Dominik\source\repos\piccolino1\TravIS\ASP\TravIS\obj\Debug\net6.0\staticwebassets\msbuild.TravIS.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Dominik\source\repos\piccolino1\TravIS\ASP\TravIS\obj\Debug\net6.0\staticwebassets\msbuild.build.TravIS.props
+C:\Users\Dominik\source\repos\piccolino1\TravIS\ASP\TravIS\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TravIS.props
+C:\Users\Dominik\source\repos\piccolino1\TravIS\ASP\TravIS\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TravIS.props
+C:\Users\Dominik\source\repos\piccolino1\TravIS\ASP\TravIS\obj\Debug\net6.0\staticwebassets.pack.json
